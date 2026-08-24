@@ -12,26 +12,30 @@
 
   <br/>
 
-  <!-- Profile Visitor Counter & Badges -->
+  <!-- Profile Views & Connect Buttons -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=venzixx&amp;label=Profile%20Views&amp;color=7aa2f7&amp;style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square&amp;logo=visualstudiocode" alt="Status" />
-    <img src="https://img.shields.io/badge/Open%20To-Collaborations-blueviolet?style=flat-square" alt="Open to Collaboration" />
   </p>
 
-  <!-- Quick Social Links -->
+  <!-- Clean Iconify Social Links -->
   <p align="center">
-    <a href="https://linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter/X" />
-    </a>
-    <a href="https://discord.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
-    </a>
+    <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer">
+      <img src="assets/icons/linkedin.svg" width="34" height="34" alt="LinkedIn" />
+    </a> &nbsp;&nbsp;
+    <a href="https://github.com/venzixx" target="_blank" rel="noreferrer">
+      <img src="assets/icons/github.svg" width="34" height="34" alt="GitHub" />
+    </a> &nbsp;&nbsp;
+    <a href="https://discord.com/" target="_blank" rel="noreferrer">
+      <img src="assets/icons/discord.svg" width="34" height="34" alt="Discord" />
+    </a> &nbsp;&nbsp;
+    <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+      <img src="assets/icons/twitter.svg" width="34" height="34" alt="Twitter/X" />
+    </a> &nbsp;&nbsp;
+    <a href="https://instagram.com/" target="_blank" rel="noreferrer">
+      <img src="assets/icons/instagram.svg" width="34" height="34" alt="Instagram" />
+    </a> &nbsp;&nbsp;
     <a href="mailto:230301120185@centurionuniv.edu.in">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+      <img src="assets/icons/gmail.svg" width="34" height="34" alt="Email" />
     </a>
   </p>
 
@@ -39,7 +43,7 @@
 
 ---
 
-### 💫 About Me
+### <img src="assets/icons/sparkles.svg" width="22" height="22" /> About Me
 
 ```yaml
 name: Sidharth Samantaray
@@ -56,7 +60,7 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### <img src="assets/icons/code.svg" width="22" height="22" /> Tech Stack & Arsenal
 
 <div align="center">
 
@@ -107,7 +111,7 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### <img src="assets/icons/fire.svg" width="22" height="22" /> GitHub Activity & Analytics
 
 <div align="center">
   <table>
@@ -129,7 +133,7 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 
 ---
 
-### 📈 Activity Graph
+### 📈 Activity Waveform
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzixx&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=0D1117&amp;color=7aa2f7&amp;line=7dcfff&amp;point=70a5fd" width="100%" alt="Activity Graph" />
@@ -157,16 +161,30 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 
 ---
 
-### 🤝 Connect With Me
+### <img src="assets/icons/terminal.svg" width="22" height="22" /> Connect With Me
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/venzixx)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:230301120185@centurionuniv.edu.in)
+  <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/linkedin.svg" width="38" height="38" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/venzixx" target="_blank" rel="noreferrer">
+    <img src="assets/icons/github.svg" width="38" height="38" alt="GitHub" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/discord.svg" width="38" height="38" alt="Discord" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter/X" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/instagram.svg" width="38" height="38" alt="Instagram" />
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:230301120185@centurionuniv.edu.in">
+    <img src="assets/icons/gmail.svg" width="38" height="38" alt="Email" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Footer Banner Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,14,23,30&amp;height=100&amp;section=footer" width="100%" alt="Footer Banner" />
