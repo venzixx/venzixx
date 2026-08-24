@@ -5,25 +5,26 @@
 
   <br/>
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/venzixx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61AFEF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Problem+Solver+%26+Builder+%E2%9A%A1;Crafting+Modern+Web+Apps+%E2%9C%A8" alt="Typing SVG" /></a>
-
-  <br/>
-
-  <!-- Profile Views & Connect Buttons -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=venzixx&amp;label=Profile%20Views&amp;color=7aa2f7&amp;style=flat-square" alt="Profile Views" />
-  </p>
-
-  <!-- Clean High-Contrast Iconify Social Links -->
-  <p align="center">
-    <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer"><img src="assets/icons/linkedin.svg" width="38" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
-    <a href="https://github.com/venzixx" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="38" height="38" alt="GitHub" /></a>&nbsp;&nbsp;
-    <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="assets/icons/discord.svg" width="38" height="38" alt="Discord" /></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/" target="_blank" rel="noreferrer"><img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter/X" /></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram-logo.svg" width="38" height="38" alt="Instagram" /></a>&nbsp;&nbsp;
-    <a href="mailto:230301120185@centurionuniv.edu.in"><img src="assets/icons/gmail.svg" width="38" height="38" alt="Email" /></a>
-  </p>
+  <!-- Side-by-Side Hero Section -->
+  <table border="0" width="100%">
+    <tr style="border: none;">
+      <td width="60%" align="left" valign="middle" style="border: none;">
+        <a href="https://github.com/venzixx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61AFEF&amp;center=false&amp;vCenter=true&amp;width=450&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Problem+Solver+%26+Builder+%E2%9A%A1;Crafting+Modern+Web+Apps+%E2%9C%A8" alt="Typing SVG" /></a>
+        <br/><br/>
+        <img src="https://komarev.com/ghpvc/?username=venzixx&amp;label=Profile%20Views&amp;color=7aa2f7&amp;style=flat-square" alt="Profile Views" />
+        <br/><br/>
+        <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer"><img src="assets/icons/linkedin.svg" width="38" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
+        <a href="https://github.com/venzixx" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="38" height="38" alt="GitHub" /></a>&nbsp;&nbsp;
+        <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="assets/icons/discord.svg" width="38" height="38" alt="Discord" /></a>&nbsp;&nbsp;
+        <a href="https://twitter.com/" target="_blank" rel="noreferrer"><img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter/X" /></a>&nbsp;&nbsp;
+        <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram-logo.svg" width="38" height="38" alt="Instagram" /></a>&nbsp;&nbsp;
+        <a href="mailto:230301120185@centurionuniv.edu.in"><img src="assets/icons/gmail.svg" width="38" height="38" alt="Email" /></a>
+      </td>
+      <td width="40%" align="right" valign="middle" style="border: none;">
+        <img src="assets/images/profile-art.png" width="320" alt="Profile Artwork" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
