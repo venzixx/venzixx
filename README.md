@@ -1,38 +1,37 @@
 <div align="center">
 
-  <!-- Shorekeeper Ethereal Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,6,23,30&amp;height=220&amp;section=header&amp;text=THE%20SHOREKEEPER&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Sidharth%20Samantaray%20%7C%20Guardian%20of%20the%20Black%20Shores&amp;descFontSize=16&amp;descAlignY=58&amp;descAlign=50" width="100%" alt="Shorekeeper Header" />
+  <!-- Header Banner Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,14,23,30&amp;height=220&amp;section=header&amp;text=Hi%20there,%20I'm%20Sidharth!%20👋&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38" width="100%" alt="Header Banner" />
 
   <br/>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/venzixx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=50&amp;lines=Guardian%20of%20the%20Black%20Shores%20%26%20Full%20Stack%20Dev;Navigating%20Infinite%20Data%20Streams%20%26%20Cosmos;Weaving%20Logic%20with%20Starlit%20Butterflies;Crafting%20Scalable%20%26%20Ethereal%20Web%20Architectures" alt="Shorekeeper Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61AFEF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Problem+Solver+%26+Builder+%E2%9A%A1;Crafting+Modern+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Tethys System Badges -->
+  <!-- Profile Visitor Counter & Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/TETHYS%20SYSTEM-ONLINE%20%E2%9C%A8-0ea5e9?style=flat-square&logo=buffer&logoColor=white" alt="Tethys Online" />
-    <img src="https://img.shields.io/badge/DOMAIN-THE%20BLACK%20SHORES%20%F0%9F%A6%8B-0f172a?style=flat-square&labelColor=0284c7&color=0f172a" alt="Domain Black Shores" />
-    <img src="https://komarev.com/ghpvc/?username=venzixx&label=Resonance%20Echoes&color=0284c7&style=flat-square" alt="Profile Echoes" />
-    <img src="https://img.shields.io/badge/RESONANCE%20GRADE-S--TIER%20%E2%9A%A1-8b5cf6?style=flat-square" alt="Grade S-Tier" />
+    <img src="https://komarev.com/ghpvc/?username=venzixx&amp;label=Profile%20Views&amp;color=7aa2f7&amp;style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square&amp;logo=visualstudiocode" alt="Status" />
+    <img src="https://img.shields.io/badge/Open%20To-Collaborations-blueviolet?style=flat-square" alt="Open to Collaboration" />
   </p>
 
-  <!-- Quick Cosmic Navigation / Socials -->
+  <!-- Quick Social Links -->
   <p align="center">
     <a href="https://linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/venzixx" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://twitter.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter/X" />
     </a>
     <a href="https://discord.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
     </a>
     <a href="mailto:230301120185@centurionuniv.edu.in">
-      <img src="https://img.shields.io/badge/Echo%20Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -40,73 +39,61 @@
 
 ---
 
-### 🦋 ✦ Tethys System // Core Terminal Archive
+### 💫 About Me
 
 ```yaml
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ ✦ [TETHYS ARCHIVE // PROFILE_LOG]                                           │
-│                                                                             │
-│  Entity: Sidharth Samantaray (@venzixx)                                     │
-│  Title: The Shorekeeper // Full-Stack Architect & System Engineer          │
-│  Base: The Black Shores (Data Streams & Constellation Networks)            │
-│  Forte Resonance: [TypeScript, React, Next.js, Node.js, Python, Tailwind]   │
-│  Core Protocols: [Scalable Architectures, Clean Code, UI/UX Aesthetics]     │
-│  Active Streams: [butterfly, Mochi-sama, Cloud Infrastructures]             │
-│  Echo Directive: "Transforming raw logic into luminous, starlit solutions" ✧│
-│  Cosmic Status: Synchronized with the Black Shores Data Grid 🌌             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+name: Sidharth Samantaray
+username: venzixx
+current_focus: Full-Stack Web Development & System Architecture
+passions: [Open-Source, Clean Code, Scalable Architectures, UI/UX Design]
+fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 ```
 
-- 🔭 **Current Focus:** Building reactive web architectures, high-performance tools, and open-source ecosystems.
-- 🌱 **Resonance Expansion:** Deep-diving into distributed cloud systems, modern compilers & next-gen frameworks.
-- 💬 **Frequencies to Discuss:** Full-stack development, modern web standards, UI/UX aesthetics, and creative code.
-- ⚡ **The Shorekeeper's Creed:** *"Where logic meets the stars, code becomes art."*
+- 🔭 **Currently Building:** High-performance web applications, tools & creative projects
+- 🌱 **Learning & Exploring:** Advanced Cloud Architecture, Distributed Systems & Next-gen Frameworks
+- 💬 **Ask Me About:** React, Node.js, JavaScript/TypeScript, Python, and UI/UX Design
+- ⚡ **Goal:** Building impactful software that solves real-world problems
 
 ---
 
-### 🛠️ ✦ Resonance Arsenal & Tooling
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-  #### ✧ Core Frequencies (Languages)
+  #### 💻 Languages & Frameworks
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,html,css&perline=7&theme=dark" alt="Core Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css,react,nextjs,nodejs,express,tailwind&amp;perline=6&amp;theme=dark" alt="Languages and Frameworks" />
   </p>
 
-  #### ✧ Resonance Frameworks & Ecosystem
+  #### 🗄️ Databases & DevOps
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&perline=6&theme=dark" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,docker,git,github,linux&amp;perline=8&amp;theme=dark" alt="Databases and DevOps" />
   </p>
 
-  #### ✧ Data Vaults & Cloud Infrastructures
+  #### ⚙️ Developer Tools & Design
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,docker,git,github,linux&perline=8&theme=dark" alt="Databases and DevOps" />
-  </p>
-
-  #### ✧ Terminal Instruments & Design
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,bash,vercel&perline=6&theme=dark" alt="Tools and Design" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vite,npm,bash&amp;perline=6&amp;theme=dark" alt="Tools and Design" />
   </p>
 
 </div>
 
 ---
 
-### 📊 ✦ Data Stream Analytics & Resonance Activity
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=venzixx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d17&title_color=38bdf8&icon_color=2dd4bf&text_color=c4b5fd" width="100%" alt="venzixx's GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=venzixx&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7aa2f7&amp;icon_color=7dcfff&amp;text_color=c0caf5" width="100%" alt="venzixx's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=venzixx&theme=tokyonight&hide_border=true" width="100%" alt="venzixx's GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=venzixx&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="venzixx's GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=venzixx&layout=compact&theme=tokyonight&hide_border=true&bg_color=060d17&title_color=38bdf8&text_color=c4b5fd" width="60%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=venzixx&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7aa2f7&amp;text_color=c0caf5" width="60%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -114,52 +101,46 @@
 
 ---
 
-### 🌊 ✦ Constellation Activity Waveform
+### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzixx&theme=tokyo-night&hide_border=true&area=true&bg_color=060d17&color=38bdf8&line=2dd4bf&point=818cf8" width="100%" alt="Activity Waveform Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzixx&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=0D1117&amp;color=7aa2f7&amp;line=7dcfff&amp;point=70a5fd" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
-### 🐍 ✦ Flare Butterfly & Contribution Grid
+### 🐍 Contribution Graph Eating Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-### 💬 ✦ The Shorekeeper's Echo
+### 💡 Daily Dev Quote
 
 <div align="center">
-  <blockquote>
-    <i>"From the deepest data streams of the Black Shores to the boundless starry sky... Every commit is a beacon, every repository a constellation."</i>
-    <br/>
-    <b>— 🦋 Shorekeeper (Wuthering Waves)</b>
-  </blockquote>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
 
-### 📡 ✦ Establish Resonance (Connect)
+### 🤝 Connect With Me
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-  [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venzixx)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:230301120185@centurionuniv.edu.in)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/venzixx)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:230301120185@centurionuniv.edu.in)
 
   <br/>
 
-  <!-- Shorekeeper Footer Banner Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,6,23,30&amp;height=100&amp;section=footer" width="100%" alt="Shorekeeper Footer Wave" />
+  <!-- Footer Banner Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,14,23,30&amp;height=100&amp;section=footer" width="100%" alt="Footer Banner" />
 
 </div>
