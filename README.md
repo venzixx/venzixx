@@ -1,11 +1,13 @@
 <div align="center">
 
   <!-- Shorekeeper Ethereal Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,23,30&height=230&section=header&text=✦%20THE%20SHOREKEEPER%20✦&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Sidharth%20Samantaray%20%7C%20Guardian%20of%20the%20Black%20Shores%20%26%20Code&descFontSize=15&descAlignY=58&descAlign=50" width="100%" alt="Shorekeeper Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,6,23,30&amp;height=220&amp;section=header&amp;text=THE%20SHOREKEEPER&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Sidharth%20Samantaray%20%7C%20Guardian%20of%20the%20Black%20Shores&amp;descFontSize=16&amp;descAlignY=58&amp;descAlign=50" width="100%" alt="Shorekeeper Header" />
+
+  <br/>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/venzixx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&height=50&lines=✦+Guardian+of+the+Black+Shores+%26+Full+Stack+Dev+🦋;✦+Navigating+Infinite+Data+Streams+%26+Cosmos+🌌;✦+Weaving+Logic+with+Starlit+Butterflies+✧;✦+Crafting+Scalable+%26+Ethereal+Web+Architectures+⚡" alt="Shorekeeper Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=50&amp;lines=Guardian%20of%20the%20Black%20Shores%20%26%20Full%20Stack%20Dev;Navigating%20Infinite%20Data%20Streams%20%26%20Cosmos;Weaving%20Logic%20with%20Starlit%20Butterflies;Crafting%20Scalable%20%26%20Ethereal%20Web%20Architectures" alt="Shorekeeper Typing SVG" />
   </a>
 
   <br/>
@@ -158,6 +160,6 @@
   <br/>
 
   <!-- Shorekeeper Footer Banner Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,23,30&height=100&section=footer" width="100%" alt="Shorekeeper Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,6,23,30&amp;height=100&amp;section=footer" width="100%" alt="Shorekeeper Footer Wave" />
 
 </div>
