@@ -6,9 +6,7 @@
   <br/>
 
   <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/venzixx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61AFEF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Problem+Solver+%26+Builder+%E2%9A%A1;Crafting+Modern+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/venzixx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61AFEF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Problem+Solver+%26+Builder+%E2%9A%A1;Crafting+Modern+Web+Apps+%E2%9C%A8" alt="Typing SVG" /></a>
 
   <br/>
 
@@ -17,26 +15,14 @@
     <img src="https://komarev.com/ghpvc/?username=venzixx&amp;label=Profile%20Views&amp;color=7aa2f7&amp;style=flat-square" alt="Profile Views" />
   </p>
 
-  <!-- Clean Iconify Social Links -->
+  <!-- Clean High-Contrast Iconify Social Links -->
   <p align="center">
-    <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer">
-      <img src="assets/icons/linkedin.svg" width="34" height="34" alt="LinkedIn" />
-    </a> &nbsp;&nbsp;
-    <a href="https://github.com/venzixx" target="_blank" rel="noreferrer">
-      <img src="assets/icons/github.svg" width="34" height="34" alt="GitHub" />
-    </a> &nbsp;&nbsp;
-    <a href="https://discord.com/" target="_blank" rel="noreferrer">
-      <img src="assets/icons/discord.svg" width="34" height="34" alt="Discord" />
-    </a> &nbsp;&nbsp;
-    <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-      <img src="assets/icons/twitter.svg" width="34" height="34" alt="Twitter/X" />
-    </a> &nbsp;&nbsp;
-    <a href="https://instagram.com/" target="_blank" rel="noreferrer">
-      <img src="assets/icons/instagram.svg" width="34" height="34" alt="Instagram" />
-    </a> &nbsp;&nbsp;
-    <a href="mailto:230301120185@centurionuniv.edu.in">
-      <img src="assets/icons/gmail.svg" width="34" height="34" alt="Email" />
-    </a>
+    <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer"><img src="assets/icons/linkedin.svg" width="38" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/venzixx" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="38" height="38" alt="GitHub" /></a>&nbsp;&nbsp;
+    <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="assets/icons/discord.svg" width="38" height="38" alt="Discord" /></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/" target="_blank" rel="noreferrer"><img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter/X" /></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram.svg" width="38" height="38" alt="Instagram" /></a>&nbsp;&nbsp;
+    <a href="mailto:230301120185@centurionuniv.edu.in"><img src="assets/icons/gmail.svg" width="38" height="38" alt="Email" /></a>
   </p>
 
 </div>
@@ -66,44 +52,44 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 
   <h4>💻 Languages</h4>
   <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="assets/icons/javascript.svg" width="44" height="44" alt="JavaScript" /></a> &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" /></a> &nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="assets/icons/python.svg" width="44" height="44" alt="Python" /></a> &nbsp;
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="assets/icons/cpp.svg" width="44" height="44" alt="C++" /></a> &nbsp;
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="assets/icons/c.svg" width="44" height="44" alt="C" /></a> &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="assets/icons/html5.svg" width="44" height="44" alt="HTML5" /></a> &nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="assets/icons/javascript.svg" width="44" height="44" alt="JavaScript" /></a>&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" /></a>&nbsp;&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="assets/icons/python.svg" width="44" height="44" alt="Python" /></a>&nbsp;&nbsp;
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="assets/icons/cpp.svg" width="44" height="44" alt="C++" /></a>&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="assets/icons/c.svg" width="44" height="44" alt="C" /></a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="assets/icons/html5.svg" width="44" height="44" alt="HTML5" /></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="assets/icons/css3.svg" width="44" height="44" alt="CSS3" /></a>
   </p>
 
   <h4>🚀 Frameworks & Libraries</h4>
   <p align="center">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="assets/icons/react.svg" width="44" height="44" alt="React" /></a> &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="assets/icons/nextjs.svg" width="44" height="44" alt="Next.js" /></a> &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="assets/icons/nodejs.svg" width="44" height="44" alt="Node.js" /></a> &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="assets/icons/express.svg" width="44" height="44" alt="Express" /></a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="assets/icons/tailwindcss.svg" width="44" height="44" alt="TailwindCSS" /></a> &nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="assets/icons/react.svg" width="44" height="44" alt="React" /></a>&nbsp;&nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="assets/icons/nextjs.svg" width="44" height="44" alt="Next.js" /></a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="assets/icons/nodejs.svg" width="44" height="44" alt="Node.js" /></a>&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="assets/icons/express.svg" width="44" height="44" alt="Express" /></a>&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="assets/icons/tailwindcss.svg" width="44" height="44" alt="TailwindCSS" /></a>&nbsp;&nbsp;
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="assets/icons/vite.svg" width="44" height="44" alt="Vite" /></a>
   </p>
 
   <h4>🗄️ Databases & DevOps</h4>
   <p align="center">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="assets/icons/mongodb.svg" width="44" height="44" alt="MongoDB" /></a> &nbsp;
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="assets/icons/postgresql.svg" width="44" height="44" alt="PostgreSQL" /></a> &nbsp;
-    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="assets/icons/prisma.svg" width="44" height="44" alt="Prisma" /></a> &nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="assets/icons/firebase.svg" width="44" height="44" alt="Firebase" /></a> &nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="assets/icons/docker.svg" width="44" height="44" alt="Docker" /></a> &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/icons/git.svg" width="44" height="44" alt="Git" /></a> &nbsp;
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" /></a> &nbsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="assets/icons/mongodb.svg" width="44" height="44" alt="MongoDB" /></a>&nbsp;&nbsp;
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="assets/icons/postgresql.svg" width="44" height="44" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="assets/icons/prisma.svg" width="44" height="44" alt="Prisma" /></a>&nbsp;&nbsp;
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="assets/icons/firebase.svg" width="44" height="44" alt="Firebase" /></a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="assets/icons/docker.svg" width="44" height="44" alt="Docker" /></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/icons/git.svg" width="44" height="44" alt="Git" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" /></a>&nbsp;&nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="assets/icons/linux.svg" width="44" height="44" alt="Linux" /></a>
   </p>
 
   <h4>⚙️ Developer Tools & Design</h4>
   <p align="center">
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="assets/icons/vscode.svg" width="44" height="44" alt="VS Code" /></a> &nbsp;
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="assets/icons/postman.svg" width="44" height="44" alt="Postman" /></a> &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="assets/icons/figma.svg" width="44" height="44" alt="Figma" /></a> &nbsp;
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="assets/icons/npm.svg" width="44" height="44" alt="NPM" /></a> &nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="assets/icons/bash.svg" width="44" height="44" alt="Bash" /></a> &nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="assets/icons/vscode.svg" width="44" height="44" alt="VS Code" /></a>&nbsp;&nbsp;
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="assets/icons/postman.svg" width="44" height="44" alt="Postman" /></a>&nbsp;&nbsp;
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="assets/icons/figma.svg" width="44" height="44" alt="Figma" /></a>&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="assets/icons/npm.svg" width="44" height="44" alt="NPM" /></a>&nbsp;&nbsp;
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="assets/icons/bash.svg" width="44" height="44" alt="Bash" /></a>&nbsp;&nbsp;
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="assets/icons/vercel.svg" width="44" height="44" alt="Vercel" /></a>
   </p>
 
@@ -165,24 +151,12 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/linkedin.svg" width="38" height="38" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/venzixx" target="_blank" rel="noreferrer">
-    <img src="assets/icons/github.svg" width="38" height="38" alt="GitHub" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/discord.svg" width="38" height="38" alt="Discord" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter/X" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/instagram.svg" width="38" height="38" alt="Instagram" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:230301120185@centurionuniv.edu.in">
-    <img src="assets/icons/gmail.svg" width="38" height="38" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/" target="_blank" rel="noreferrer"><img src="assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/venzixx" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="40" height="40" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="assets/icons/discord.svg" width="40" height="40" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/" target="_blank" rel="noreferrer"><img src="assets/icons/twitter.svg" width="40" height="40" alt="Twitter/X" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram.svg" width="40" height="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:230301120185@centurionuniv.edu.in"><img src="assets/icons/gmail.svg" width="40" height="40" alt="Email" /></a>
 
   <br/><br/>
 
