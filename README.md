@@ -10,7 +10,7 @@
 
   <br/>
 
-  <!-- Profile Visitor Counter & Social Badges -->
+  <!-- Profile Visitor Counter & Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=venzixx&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square&logo=visualstudiocode" alt="Status" />
@@ -28,7 +28,7 @@
     <a href="https://discord.com/" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="mailto:sidharth@example.com">
+    <a href="mailto:230301120185@centurionuniv.edu.in">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -51,14 +51,6 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
 - 🌱 **Learning & Exploring:** Advanced Cloud Architecture, Distributed Systems & Next-gen Frameworks
 - 💬 **Ask Me About:** React, Node.js, JavaScript/TypeScript, Python, and UI/UX Design
 - ⚡ **Goal:** Building impactful software that solves real-world problems
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venzixx&theme=tokyonight&no-bg=false&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -91,18 +83,26 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=venzixx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" width="100%" alt="venzixx's GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=venzixx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" width="100%" alt="venzixx's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=venzixx&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakNum=7dcfff" width="100%" alt="venzixx's GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=venzixx&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakNum=7dcfff" width="100%" alt="venzixx's GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venzixx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" width="60%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=venzixx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" width="60%" alt="Top Languages" />
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venzixx&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7aa2f7&line=7dcfff&point=70a5fd" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -113,7 +113,7 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/venzixx/venzixx/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
