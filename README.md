@@ -21,7 +21,7 @@
     <a href="https://github.com/venzixx" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="38" height="38" alt="GitHub" /></a>&nbsp;&nbsp;
     <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="assets/icons/discord.svg" width="38" height="38" alt="Discord" /></a>&nbsp;&nbsp;
     <a href="https://twitter.com/" target="_blank" rel="noreferrer"><img src="assets/icons/twitter.svg" width="38" height="38" alt="Twitter/X" /></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram.svg" width="38" height="38" alt="Instagram" /></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram-logo.svg" width="38" height="38" alt="Instagram" /></a>&nbsp;&nbsp;
     <a href="mailto:230301120185@centurionuniv.edu.in"><img src="assets/icons/gmail.svg" width="38" height="38" alt="Email" /></a>
   </p>
 
@@ -155,7 +155,7 @@ fun_fact: "I turn coffee ☕ into clean, optimized code 🚀"
   <a href="https://github.com/venzixx" target="_blank" rel="noreferrer"><img src="assets/icons/github.svg" width="40" height="40" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="assets/icons/discord.svg" width="40" height="40" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/" target="_blank" rel="noreferrer"><img src="assets/icons/twitter.svg" width="40" height="40" alt="Twitter/X" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram.svg" width="40" height="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/" target="_blank" rel="noreferrer"><img src="assets/icons/instagram-logo.svg" width="40" height="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:230301120185@centurionuniv.edu.in"><img src="assets/icons/gmail.svg" width="40" height="40" alt="Email" /></a>
 
   <br/><br/>
